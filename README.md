@@ -1,4 +1,5 @@
 # add-asset-metamask
+Using this script you can set-up adding your token to Metamask wallet at the touch of a button!
 
 ### Things to change for customizing:
 
